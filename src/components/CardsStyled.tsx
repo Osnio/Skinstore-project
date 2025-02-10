@@ -33,7 +33,6 @@ export const Card0 = styled.div`
   }
   &:nth-child(1){
     box-shadow: 4px 4px 4px 0px #C2F22D;
-
   }
 `
 
@@ -91,4 +90,8 @@ export const Explore = styled.div`
     background-color:#FF5C00;
     transition: all 200ms ease-in-out;
   }
+`
+export const Link = styled.a`
+  color: #FFFFFF ;
+  
 `

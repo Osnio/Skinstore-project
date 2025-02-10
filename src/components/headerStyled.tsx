@@ -165,7 +165,9 @@ export const Crescente = styled.div`
   right: 190px;
   top:140px;
   display: grid;
+  z-index: 1000;
 `
+
 
 export const Decrescente = styled.div`
   width: 133px;
